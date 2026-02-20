@@ -1,0 +1,28 @@
+{
+  "showDialog": true,
+  "title": "🔐 Secure Login",
+  "description": "Please login to continue using this app.",
+  "button": "LOGIN",
+  "toast": "✅ Successfully Logged In!",
+  "renewUrl": "https://t.me/dp_mods",
+  "devices": [
+    {
+      "device_id": "591a2a49ce8ca4dc",
+      "username": "dpmods",
+      "password": "12345",
+      "expire_date": "2025-10-20"
+    },
+    {
+      "device_id": "abcdef9876543210",
+      "username": "demo",
+      "password": "demo123",
+      "expire_date": "2026-04-15"
+    },
+    {
+      "device_id": "testdevice11223344",
+      "username": "user",
+      "password": "pass",
+      "expire_date": "2026-06-01"
+    }
+  ]
+}
